@@ -1,0 +1,1 @@
+# haskell-functional-playground
