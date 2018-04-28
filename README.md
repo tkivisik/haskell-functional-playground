@@ -13,3 +13,7 @@ $ ghc -o output_file_name haskell_source_file.hs
 ```bash
 $ ./output_file_name
 ```
+
+## Thanks
+
+* http://www.happylearnhaskelltutorial.com/
